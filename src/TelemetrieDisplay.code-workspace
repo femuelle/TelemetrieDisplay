@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Nextcloud/TelemetrieDisplay"
+		},
+		{
+			"name": "FrSky Telemtery",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
